@@ -100,10 +100,9 @@ Key steps:
 
 ### Example Visualization
 
-*(Add EDA visualization screenshot here)*
 
 ```
-images/eda_visualization.png
+images/dashboard.png
 ```
 
 ---
