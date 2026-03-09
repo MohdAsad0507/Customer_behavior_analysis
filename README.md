@@ -99,8 +99,13 @@ Key steps:
 * Correlation analysis
 
 ### Example Visualization
+## Preview
 
-images/dashboard.png
+![Dashboard](images/dashboard.png)
+
+![sqlquery1](images/sqlquery1.png)
+
+![sqlquery2](images/sqlquery2.png)
 
 ## 3. Data Cleaning
 
