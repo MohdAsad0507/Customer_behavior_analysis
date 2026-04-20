@@ -139,9 +139,7 @@ SELECT subscription_status,
 FROM customer
 WHERE previous_purchases > 5
 GROUP BY subscription_status;
-
-
----
+```
 
 ## 5. Power BI Dashboard
 
@@ -259,4 +257,4 @@ Mohd Asad
 Data Analytics Enthusiast
 
 GitHub: https://github.com/MohdAsad0507
-LinkedIn: https://linkedin.com/in/Mohd Asad
+LinkedIn: www.linkedin.com/in/mohdasadsid
